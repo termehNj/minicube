@@ -58,7 +58,7 @@ let tasks = [
   { id: 1, title: "Buy groceries", done: false },
   { id: 2, title: "Finish report", done: false }
 ];
-
+```
 ## 6. طراحی سیستم و الگوریتم‌ها
 
 - **ID اتوماتیک**: توسط متغیر `taskIdCounter`
